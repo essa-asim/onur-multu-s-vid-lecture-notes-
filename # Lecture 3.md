@@ -30,7 +30,7 @@ Basic memory idea.
 
 ---
 
-### R-S Latch (Q, Q̅)
+### R-S Latch 
 Set (S) and Reset (R) inputs.  
 Stores 1 bit, but has invalid state (both inputs active).
 
