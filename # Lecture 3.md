@@ -25,7 +25,7 @@ Useful in encoders / interrupt systems.
 ## Sequential Logic Circuits
 
 ### Cross-Coupled Inverters
-Two inverters connected together → can store 1 bit.  
+Two inverters connected together -> can store 1 bit.  
 Basic memory idea.
 
 ---
@@ -50,7 +50,7 @@ Used to store multiple bits in CPU.
 
 ### Memory
 Stores data using addresses.  
-Read = give address → get stored value.
+Read = give address -> get stored value.
 
 ---
 
@@ -67,8 +67,8 @@ Used in control logic.
 ---
 
 ### Synchronous vs Asynchronous
-Synchronous → uses clock  
-Asynchronous → no clock, changes immediately
+Synchronous -> uses clock  
+Asynchronous -> no clock, changes immediately
 
 ---
 
