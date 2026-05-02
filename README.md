@@ -1,4 +1,4 @@
-# MEDS Lab Notes
+# Onur Multu's Video Lectures
 
 This repository contains summaries of lectures up to Lecture 6.
 
