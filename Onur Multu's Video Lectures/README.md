@@ -1,4 +1,4 @@
-# MEDS Lab Notes
+# Video Lectures' Summaraies
 
 This repository contains summaries of lectures up to Lecture 6.
 
