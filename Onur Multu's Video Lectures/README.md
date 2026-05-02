@@ -1,4 +1,4 @@
-# Video Lectures' Summaraies
+# Video Lectures' Summaries
 
 This repository contains summaries of lectures up to Lecture 6.
 
